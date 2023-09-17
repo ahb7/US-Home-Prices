@@ -40,12 +40,12 @@ I tried with Linear Regression and xgboost. Xgboost gave better result, hence th
 
 ## Results:
 The xgboost model gave the following evaluation metrics values.
-'''
+```
 R^2: 0.9943268764763544
 MAE: 2.4089355755974258
 MSE: 13.096733896525008
 RMSE: 3.6189409910255526
-'''
+```
 The scatterplot plots the actual Case-Shiller U.S. National Home Price Index (HPI) vs Predicted HPI.
 
 
