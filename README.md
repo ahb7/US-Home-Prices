@@ -4,7 +4,7 @@ S&P Case-Schiller Home Price Index is used as a proxy for home prices: fred.stlo
 
 ## Data Collection:  
 In this project, first, I looked for data. And collected the following datasets.  
-All most all the data is collected from the Fred Economic Data website https://fred.stlouisfed.org/
+All the data is collected from the Fred Economic Data website https://fred.stlouisfed.org/
 
 ### The dataset are:
 Case-Schiller Home Price Index (CSUSHPISA) is our target variable.
