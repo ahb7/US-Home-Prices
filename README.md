@@ -45,7 +45,8 @@ MAE: 2.4089355755974258
 MSE: 13.096733896525008
 RMSE: 3.6189409910255526
 ```
-The scatterplot plots the actual Case-Shiller U.S. National Home Price Index (HPI) vs Predicted HPI.
+
+<strong>The scatterplot plots the actual Case-Shiller U.S. National Home Price Index (HPI) vs Predicted HPI.</strong>
 ![ModelEvaluationImage](https://github.com/ahb7/US-Home-Prices/assets/17172345/e06cfccd-c789-4134-9955-7c549b2bcb89)
 
 <strong>In the above plot, the Actual Home Prices Index(HPI) vs Predicted HPI line is at almost 45 degree angle.   
