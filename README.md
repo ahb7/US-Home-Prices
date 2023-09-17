@@ -28,7 +28,7 @@ Download link: https://fred.stlouisfed.org/series/UNRATE
 GDP Per Capita (GDPPC)
 Download link: https://fred.stlouisfed.org/series/A939RX0Q048SBEA
 
-The datasets were considered from 01-Jan-2000 to 01-June-2023
+The datasets were considered from 01-Jan-2000 to 01-June-2023  
 All data were merged into a single file inputFile.csv
 
 ## Exploratory data analysis:
